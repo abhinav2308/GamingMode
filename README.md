@@ -1,8 +1,22 @@
 Gaming-Mode | Magisk Module
 - Features -
 - Boost Game Performance When The Game Start
-- Improve Touch Sensitivity
 - Improve Network And Ping
+- Busybox Support
+- EAS PerfHAL
+- Empty Thermals
+- Sound Boost
+- Enabled Swappiness
+- Enabled ZRam
+- Improve File System
+- Improve Scheduler Settings
+- Improve Kernel Settings
+- Improve Battery Settings
+- Improve Various Memory
+- Improve Props
+- Android Runtime Optimization
+- Improve Gaming Mode
+- Fast Charging Support
 - Unlock Game Graphics and FPS
 ----------------------------------------------------------
 Yes, works on all ROMs and on all firmwares.
