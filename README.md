@@ -6,9 +6,9 @@
 
 ##### Yes, works on all ROMs and on all firmwares.
 
-#####✓ INSTALLATION: Just flash via Magisk and reboot
+##### ✓ INSTALLATION: Just flash via Magisk and reboot
 
-## Version Code: 5
+### Version Code: 5
 
 - Disabled Thermals
 - Disabled Kernel Panic
@@ -24,24 +24,24 @@
 - Added Miscellaneous
 - Improved Gaming Mode
 
-## Version Code: 4
+### Version Code: 4
 
 - Added Performance Related Bulid.prop
 - Added New Gaming Mode
 - Added Game Unlocker
 
-## Version Code: 3
+### Version Code: 3
 
 - Fixed CPU Freq Stuck To Highest
 
-## Version Code: 2
+### Version Code: 2
 
 - Added PUBG GL And KR Config
 - Added debug.hwui.renderer
 - Added ro.opa.eligible_device
 - Added CPU Freq Stuck To Highest - Experimental
 
-## Version Code: 1 
+### Version Code: 1 
 
 - Boost Game Performance When The Game Start
 - Improve Touch Sensitivity
