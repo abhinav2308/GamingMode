@@ -8,6 +8,8 @@
 
 ##### ✓ INSTALLATION: Just flash via Magisk and reboot
 
+#### - ChangeLog -
+
 ### Version Code: 5
 
 - Disabled Thermals
