@@ -8,7 +8,7 @@ Yes, works on all ROMs and on all firmwares.
 
 ✓ INSTALLATION: Just flash via Magisk and reboot
 
-# Version Code: 5
+### Version Code: 5
 
 - Disabled Thermals
 - Disabled Kernel Panic
